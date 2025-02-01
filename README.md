@@ -3,6 +3,8 @@
 
 ## 🚀 Overview  
 The **AI Resume Screening App** is a machine learning-powered application that categorizes resumes into job roles based on their content. It supports **PDF, DOCX, and TXT** file formats, extracts text, and predicts the **most relevant job category** using trained AI models.  
+![image](https://github.com/user-attachments/assets/30a194a5-8b38-48cc-8374-7296272fb877)
+
 
 ## 📌 Features  
 - ✅ **Smart Resume Classification** – Automatically assigns job categories based on resume content.  
